@@ -1,0 +1,37 @@
+{"Clothes" : [
+  {
+    "subCategoryIcon ": "R.drawable.sub_category_icon",
+    "subCategoryName": "반팔티",
+    "subCategoryInfo": "때탐",
+    "subCategory": "상의",
+    "subCategoryColor": "흰색"
+  },
+  {
+    "subCategoryIcon ": "R.drawable.sub_category_icon",
+    "subCategoryName": "청바지",
+    "subCategoryInfo": "찢어짐",
+    "subCategory": "하의",
+    "subCategoryColor": "파란색"
+  },
+  {
+    "subCategoryIcon ": "R.drawable.sub_category_icon",
+    "subCategoryName": "컨버스",
+    "subCategoryInfo": "새 거",
+    "subCategory": "신발",
+    "subCategoryColor": "흰색"
+  },
+  {
+    "subCategoryIcon ": "R.drawable.sub_category_icon",
+    "subCategoryName": "카라티",
+    "subCategoryInfo": "새 거",
+    "subCategory": "상의",
+    "subCategoryColor": "검은색"
+  },
+  {
+    "subCategoryIcon ": "R.drawable.sub_category_icon",
+    "subCategoryName": "백팩",
+    "subCategoryInfo": ".",
+    "subCategory": "액세서리",
+    "subCategoryColor": "초록색"
+  }
+]}

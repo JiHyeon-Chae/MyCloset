@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Closet</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="Outfits">코디</string>
+    <string name="mainCategory">내 옷장</string>
+    <string name="calender">캘린더</string>
+    <string name="analysis">기능</string>
+    <string name="button_send">Send</string>
+    <string name="backToMainCategory">돌아가기</string>
+</resources>
